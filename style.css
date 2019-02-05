@@ -1,0 +1,44 @@
+h1 {
+font-family: "Raleway", sans-serif;
+color:#0D2C40;
+font-weight: 400;
+font-size: 45px;
+text-transform: uppercase;
+}
+h2{
+	font-family: "Raleway", sans-serif;
+	color:#0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600
+	font-size20px;
+}
+
+body{
+	text-align: center;
+}
+
+.instruction{
+	font-family: "Raleway", sans-serif;
+	color: #F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+.game{
+	font-family: "Raleway", sans-serif;
+	color: #F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+
+p {
+font-family: "Droid Serif", serif;
+line-height: 26px;
+font-size: 18px;
+}
+
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+}
